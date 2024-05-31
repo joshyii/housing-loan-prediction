@@ -13,6 +13,3 @@ The research questions are answered by building 3 models: Decision tree, Naive B
 
 I am mostly in charge of framing the research questions, performing data preprocessing and developing decision tree and naive bayes clasifier
 
-
-by Joshua Yii
-
